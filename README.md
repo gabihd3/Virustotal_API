@@ -1,3 +1,3 @@
 # Virustotal_API
 
-This is an project attempt of using VirusTotal API
+In this repository there are some files that use VirusTotal API
