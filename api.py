@@ -1,6 +1,6 @@
 import os
 import json
-import requests
+import requests 
 
 api_key = input("What's the key? ")
 
